@@ -1,4 +1,4 @@
-FROM ubuntu:18.04
+FROM danielucb/debian:buster-slim
 
 MAINTAINER Daniel R Monteiro <daniel.ucb@gmail.com>
 
