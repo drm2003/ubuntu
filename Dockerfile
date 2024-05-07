@@ -1,4 +1,4 @@
-FROM danielucb/debian:buster-slim
+FROM debian:buster-slim
 
 MAINTAINER Daniel R Monteiro <daniel.ucb@gmail.com>
 
